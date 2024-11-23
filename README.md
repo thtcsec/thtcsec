@@ -14,6 +14,7 @@
 - 📄 Hay dùng : Brute-force, recursion breaking (stack, queue)
 
 - ⚡ Damn fact **Mình nghĩ mình khá thú vị**
+- ⚡ LeetCode current solved problem: 714
 
 <h3 align="left">Kết nối với tui:</h3>
 <p align="left">
