@@ -1,7 +1,6 @@
-<h1 align="center">Hé lô 👋, Mình là Trịnh Hoàng Tú</h1>
+<h1 align="center">Hé lô 👋, mình là Trịnh Hoàng Tú</h1>
 <h3 align="center">Thích luyện giải thuật bằng C#</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusvip456&label=Profile%20views&color=0e75b6&style=flat" alt="tusvip456" /> </p>
 
 - 🔭Mình đang làm đồ án **FlightReservation**
 
@@ -9,11 +8,10 @@
 
 - 💬 Có thể hỏi mình về **C#**
 
-- 📫 Kết nối với tui **facebook.com/tkgtht**
-
 - 📄 Hay dùng : Brute-force, recursion breaking (stack, queue)
 
 - ⚡ Damn fact **Mình nghĩ mình khá thú vị**
+
 - ⚡ LeetCode current solved problem: 714
 
 <h3 align="left">Kết nối với tui:</h3>
