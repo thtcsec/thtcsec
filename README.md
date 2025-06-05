@@ -2,17 +2,17 @@
 <h3 align="center">Thích luyện giải thuật bằng C#</h3>
 
 
-- 🔭Mình đang làm đồ án **FlightReservation**
+- 🔭Mình đang làm đồ án **Java GUI nhúng nhận diện khuôn mặt AI**
 
-- 🌱 Mình đang học **C#, Javascript, Java**
+- 🌱 Mình đang học **C#, Java, Javascript**
 
 - 💬 Có thể hỏi mình về **C#**
 
-- 📄 Hay dùng : Brute-force, recursion breaking (stack, queue)
+- 📄 Hay dùng : Brute-force
 
 - ⚡ Damn fact **Mình nghĩ mình khá thú vị**
 
-- ⚡ LeetCode current solved problem: 714
+- ⚡ LeetCode current solved problem: 900
 
 <h3 align="left">Kết nối với tui:</h3>
 <p align="left">
