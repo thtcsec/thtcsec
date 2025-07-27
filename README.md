@@ -17,31 +17,54 @@ const developer = {
     name: "Trịnh Hoàng Tú",
     location: "Vietnam 🇻🇳",
     education: "HUFLIT - Cyber Security (2nd year)",
-    currentFocus: "Java Swing + Face Recognition AI",
-    interests: ["Cybersecurity", "Algorithm Explorer"],
+    currentFocus: "ASP.NET Development & Cybersecurity",
+    specialization: ["Desktop Applications (WPF)", "Web Development", "Android Application"],
+    tools: ["Visual Studio", "VS Code", "IntelliJ IDEA", "Nmap", "Wireshark"],
+    community: "Google Developer Group HCMC",
     motto: "Code with purpose, secure with passion"
 };
 ```
 
 ## 🔮 **Current Adventures**
 
-🔭 **Building:** Java Swing application with Face Recognition AI integration  
-🌱 **Learning:** Advanced C#, Java Spring Boot, Ethical Hacking techniques  
-🤝 **Open to:** Cybersecurity projects, .NET collaborations, Open Source contributions  
-💡 **Ask me about:** C# development, Data Structures, Web Penetration Testing  
+🔭 **Building:** ASP.NET applications & Linux Server Management tools  
+🌱 **Learning:** Advanced Cybersecurity, Network Security, AI Integration  
+🤝 **Open to:** ASP.NET projects, Security tool development, Open Source contributions  
+💡 **Ask me about:** C# ASP.NET, Desktop applications (WPF), Network Security tools  
+🎯 **Recent Projects:** Flight Reservation System, Computer Store E-commerce, EReader App  
+
+## 🏆 **Community Involvement**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Developer%20Group-HCMC-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=2D3748" alt="GDG HCMC"/>
+</div>
+
+*Active participant in Google Developer Group Ho Chi Minh City, focusing on learning and sharing knowledge about Google technologies and developer practices.*  
 
 ## ⚡ **Tech Arsenal**
 
 <div align="center">
 
 ### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,html,css&theme=dark" />
 
-### **Tools & Technologies** 
-<img src="https://skillicons.dev/icons?i=git,docker,mysql,postman,linux,kali&theme=dark" />
+### **Development Tools & IDEs**
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,docker&theme=dark" />
 
-### **Web Technologies**
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,bootstrap,tailwind&theme=dark" />
+### **Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=sqlserver,firebase,androidstudio,vmware&theme=dark" />
+
+### **Security & Networking**
+<img src="https://skillicons.dev/icons?i=linux,kali,python&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanner-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=2D3748" />
+<img src="https://img.shields.io/badge/Wireshark-Network%20Protocol%20Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=2D3748" />
+
+### **AI & Development Assistants**
+<img src="https://img.shields.io/badge/ChatGPT-OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=2D3748" />
+<img src="https://img.shields.io/badge/Claude%20AI-Anthropic-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=2D3748" />
+<img src="https://img.shields.io/badge/Gemini%20Pro-Google-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=2D3748" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair%20Programming-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748" />
 
 </div>
 
