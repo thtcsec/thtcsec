@@ -15,13 +15,21 @@
 ```typescript
 const developer = {
     name: "Trịnh Hoàng Tú",
-    location: "Vietnam 🇻🇳",
-    education: "HUFLIT - Cyber Security (2nd year)",
-    currentFocus: "ASP.NET Development & Cybersecurity",
-    specialization: ["Desktop Applications (WPF)", "Web Development", "Android Application"],
-    tools: ["Visual Studio", "VS Code", "IntelliJ IDEA", "Nmap", "Wireshark"],
-    community: "Google Developer Group HCMC",
-    motto: "Code with purpose, secure with passion"
+    location: "Ho Chi Minh City, Vietnam 🇻🇳",
+    education: "HUFLIT - Cyber Security (3rd year)",
+    coreCompetencies: { 
+        development: ["ASP.NET (Web, Desktop)", "Java (Android, Swing)", "Python (API Backend)"],
+        security: ["Secure Software Development", "Web Vulnerability Assessment", "System Hardening"]
+    },
+    tools: [
+        "Visual Studio", "Visual Studio Code", "IntelliJ IDEA", "PyCharm",
+        "Nmap", "Wireshark", "Metasploit",
+        "Git", "Docker", 
+        "Kali Linux",
+        "Gemini", "ChatGPT", "Claude", "Github Copilot"
+    ],
+    community: "Google Developer Group HCMC", 
+    motto: "Code with purpose, secure with passion – Building reliable and ethical solutions."
 };
 ```
 
@@ -30,8 +38,8 @@ const developer = {
 🔭 **Building:** ASP.NET applications & Linux Server Management tools  
 🌱 **Learning:** Advanced Cybersecurity, Network Security, AI Integration  
 🤝 **Open to:** ASP.NET projects, Security tool development, Open Source contributions  
-💡 **Ask me about:** C# ASP.NET, Desktop applications (WPF), Network Security tools  
-🎯 **Recent Projects:** Flight Reservation System, Computer Store E-commerce, EReader App  
+💡 **Ask me about:** C# ASP.NET, Desktop applications (WPF)
+🎯 **Recent Projects:** Face / Object Detection, Autobuying Extension, Online Book Reading  
 
 ## 🏆 **Community Involvement**
 
@@ -39,7 +47,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Google%20Developer%20Group-HCMC-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=2D3748" alt="GDG HCMC"/>
 </div>
 
-*Active participant in Google Developer Group Ho Chi Minh City, focusing on learning and sharing knowledge about Google technologies and developer practices.*  
+*Member of Google Developer Group Ho Chi Minh City, focusing on learning and sharing knowledge about Google technologies and developer practices.*  
 
 ## ⚡ **Tech Arsenal**
 
@@ -105,4 +113,5 @@ const developer = {
 
 <div align="center">
   <em>"Security is not a product, but a process. Code is not just syntax, but a solution."</em>
+  <em>Upholding the highest ethical standards.</em>
 </div>
