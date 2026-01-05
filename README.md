@@ -1,210 +1,205 @@
-# 👋 Welcome to my digital space!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hi%2C+I'm+Tr%E1%BB%8Bnh+Ho%C3%A0ng+T%C3%BA;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Student;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%94%92+Ethical+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Tr%E1%BB%8Bnh+Ho%C3%A0ng+T%C3%BA;DevSecOps+%7C+Full-Stack+%7C+Blue+Team" alt="Typing SVG" />
+  
+  <p><em>Building secure, production-ready applications</em></p>
+  
+  <a href="mailto:tht.csec2005@gmail.com">
+    <img src="https://img.shields.io/badge/Open_to_Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Open to Opportunities"/>
+  </a>
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thtcsec&show_icons=true&theme=react&bg_color=0D1117&border_color=30363D&hide_border=true&include_all_commits=true&count_private=true&icon_color=00D4FF&title_color=00D4FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thtcsec&theme=react&background=0D1117&border=30363D&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thtcsec&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=thtcsec&theme=react&background=0D1117&border=30363D&hide_border=true&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🎯 **About Me**
+## 👨‍💻 About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        
-```typescript
-const developer = {
-    name: "Trịnh Hoàng Tú",
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    education: "HUFLIT - Cyber Security (3rd year)",
-    role: "Student & Developer",
-    
-    coreCompetencies: { 
-        development: [
-            "ASP.NET (Web, Desktop)", 
-            "Java (Android, Swing)", 
-            "Python (API Backend)"
-        ],
-        security: [
-            "Secure Software Development", 
-            "Web Vulnerability Assessment", 
-            "System Hardening",
-            "Ethical Hacking"
-        ]
-    },
-    
-    currentFocus: [
-        "🔐 Advanced Cybersecurity",
-        "🌐 Full-Stack Development", 
-        "🤖 AI Integration",
-        "🐧 Linux Server Management"
-    ],
-    
-    motto: "Code with purpose, secure with passion"
-};
-```
+<table>
+<tr>
+<td width="50%">
+
+🎓 **3rd Year Cybersecurity Student** @ HUFLIT  
+📍 Ho Chi Minh City, Vietnam 🇻🇳  
+💼 **DevSecOps** | **Full-Stack Developer** | **Blue Team**
+
+**Core Focus:**
+- 🔐 Secure Software Development
+- 🌐 Production-Ready Web Apps
+- 🤖 AI Integration
+- 🛡️ Security Operations & Monitoring
 
 </td>
-<td width="300px">
+<td width="50%">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-  
-  **🚀 Quick Stats**
-  
-  🎓 3rd Year Student  
-  💼 Open for Collaboration  
-  🌟 GDG HCMC Member  
-  ⚡ 900+ LeetCode Problems  
-  
-</div>
+**What I Build:**
+- ASP.NET Web & Desktop Applications
+- Java Android & Swing Apps
+- Python API Backends
+- Security Monitoring Systems
 
 </td>
-    </tr>
-  </table>
-</div>
+</tr>
+</table>
 
-## 🔮 **Current Adventures**
+---
 
-<div align="center">
-
-| 🔭 Building | 🌱 Learning | 🤝 Open to | 💡 Ask me about |
-|-------------|-------------|------------|-----------------|
-| ASP.NET Apps | Advanced Cybersecurity | ASP.NET Projects | C# ASP.NET |
-| Linux Tools | Network Security | Security Tools | Desktop Apps (WPF) |
-| AI Integration | Penetration Testing | Open Source | Ethical Hacking |
-
-</div>
-
-🎯 **Recent Projects:** Face/Object Detection • Autobuying Extension • Online Book Reading Platform
-
-## 🏆 **Community Involvement**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Google%20Developer%20Group-HCMC-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=2D3748&animation=pulse" alt="GDG HCMC"/>
-  
-  <br/>
-  
-  *🌟 Active member of Google Developer Group Ho Chi Minh City*  
-  *💫 Focusing on learning and sharing knowledge about Google technologies*  
-  *🤝 Collaborative learning and developer practices*
-</div>
-
-## ⚡ **Tech Arsenal**
+## 🏆 Featured Projects
 
 <div align="center">
 
-### **🎨 Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,html,css&theme=dark" />
-</p>
+### 🎥 SmartCam — AI-Powered Camera Management System
 
-### **🔧 Development Tools & IDEs**
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,docker&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/🔒_Private-Enterprise_System-FF6B35?style=for-the-badge&labelColor=0D1117" alt="Private"/>
 
-### **💾 Databases & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,firebase,androidstudio,vmware&theme=dark" />
-</p>
+**Microservices-based CMS with AI for real-time surveillance & object detection**
 
-### **🛡️ Security & Networking**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,python&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=2D3748" />
-  <img src="https://img.shields.io/badge/Wireshark-Protocol%20Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=2D3748" />
-  <img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-FF6B35?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=2D3748" />
-</p>
+| Highlights | |
+|:---:|:---:|
+| 🎯 **AI Detection** (Person, Vehicle, LPR, Face) | 📡 **WebRTC** live streaming (H.265) |
+| 🔐 **Security Honeypot** & IDS integration | ⚡ **SignalR** real-time logs |
+| 🐳 **Docker Microservices** architecture | 🛡️ **Wazuh HIDS** + Suricata IDS |
 
-### **🤖 AI & Development Assistants**
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=2D3748" />
-  <img src="https://img.shields.io/badge/Claude%20AI-Anthropic-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=2D3748" />
-  <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=2D3748" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Programming-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748" />
-</p>
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+---
+
+### 🎓 AI-Powered LMS — [toanvotruongtoan.com](https://toanvotruongtoan.com)
+
+<a href="https://toanvotruongtoan.com">
+  <img src="https://img.shields.io/badge/🔴_LIVE-Production-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Live"/>
+</a>
+
+**Production-ready Learning Management System serving hundreds of students**
+
+| Highlights | |
+|:---:|:---:|
+| ✨ **Gemini AI** for automated exam generation | ⚡ **<100ms** response times |
+| 🔒 **Supabase RLS** security | 🛡️ **SSL A+** rating |
+| 🚦 **Rate Limiting** (30 req/min) | ☁️ **Serverless** architecture |
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
 
 </div>
 
-## 📊 **Performance Metrics**
+---
+
+## 🌟 Community
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thtcsec&layout=compact&theme=react&bg_color=0D1117&border_color=30363D&hide_border=true&langs_count=10&title_color=00D4FF&text_color=ffffff" />
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/Google_Developer_Group-HCMC-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" />
+
+Active member focusing on Google technologies,<br/>collaborative learning & developer practices
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/AWS_First_Cloud-AI_Journey-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
+
+Hands-on experience with AWS cloud services,<br/>AI/ML solutions & cloud architecture
+
+</td>
+</tr>
+</table>
 </div>
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thtcsec&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,ts,react,html,css&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,git,github,docker,linux,kali&theme=dark" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,firebase,supabase,postgres,redis&theme=dark" />
+
+**Security Arsenal**
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh_HIDS-3C99DC?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat-square&logoColor=white" />
+
 </div>
+
+---
+
+## 📊 Achievements
 
 <div align="center">
-  <a href="https://leetcode.com/thtcsec/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-900%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=2D3748" alt="LeetCode"/>
-  </a>
-  <img src="https://img.shields.io/badge/Coding%20Status-Always%20Learning-brightgreen?style=for-the-badge&labelColor=2D3748" />
-</div>
 
-## 🌐 **Let's Connect & Collaborate**
+<a href="https://leetcode.com/thtcsec/">
+  <img src="https://img.shields.io/badge/LeetCode-900+_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
+</a>
 
-<div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2D3748)](https://fb.com/thtcsec)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D3748)](https://instagram.com/tht._csec)
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D3748)](mailto:tht.csec2005@gmail.com)
+<br/><br/>
 
-**💬 Open for:**
-- Collaboration on ASP.NET projects
-- Security tool development
-- Open source contributions
-- Knowledge sharing & mentoring
+<img src="https://github-profile-trophy.vercel.app/?username=thtcsec&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thtcsec&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35" width="95%" />
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0"/>
-</p>
+---
 
-## 🎮 **Fun Zone**
+## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thtcsec&style=for-the-badge&color=00D4FF&labelColor=2D3748&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/thtcsec?style=for-the-badge&color=00D4FF&labelColor=2D3748&label=Followers" alt="Followers" />
-</div>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
-</p>
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://fb.com/thtcsec)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/tht._csec)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117)](https://tiktok.com/@tuhocleetcode)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:tht.csec2005@gmail.com)
+
+**Open for:** ASP.NET Projects • Security Tools • DevSecOps Collaboration
+
+</div>
 
 ---
 
 <div align="center">
   
-### 💭 **Philosophy**
+*"Code with purpose, secure with passion"*
 
-*"Security is not a product, but a process.  
-Code is not just syntax, but a solution.  
-Knowledge shared is knowledge multiplied."*
+<br/>
 
-**🌟 Upholding the highest ethical standards in everything I do 🌟**
-
----
-
-**⭐ If you find my work interesting, don't forget to star my repositories! ⭐**
+<img src="https://komarev.com/ghpvc/?username=thtcsec&style=flat-square&color=00D4FF&labelColor=0D1117" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/thtcsec?style=flat-square&color=00D4FF&labelColor=0D1117" alt="Followers" />
 
 </div>
