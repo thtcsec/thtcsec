@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Tr%E1%BB%8Bnh+Ho%C3%A0ng+T%C3%BA;DevSecOps+%7C+Full-Stack+%7C+Blue+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Tr%E1%BB%8Bnh+Ho%C3%A0ng+T%C3%BA;Backend+%7C+Software+Engineer+%7C+DevOps;DevSecOps+%7C+Blue+Team" alt="Typing SVG" />
   
-  <p><em>Building secure, production-ready applications</em></p>
+  <p><em>Continuously learning and building secure, scalable applications</em></p>
   
   <a href="mailto:tht.csec2005@gmail.com">
     <img src="https://img.shields.io/badge/Open_to_Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Open to Opportunities"/>
@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 <table>
 <tr>
@@ -25,22 +25,22 @@
 
 🎓 **3rd Year Cybersecurity Student** @ HUFLIT  
 📍 Ho Chi Minh City, Vietnam 🇻🇳  
-💼 **DevSecOps** | **Full-Stack Developer** | **Blue Team**
+💼 **Backend** | **Software Engineer** | **DevOps** | **DevSecOps** | **Blue Team**
 
-**Core Focus:**
-- 🔐 Secure Software Development
-- 🌐 Production-Ready Web Apps
-- 🤖 AI Integration
-- 🛡️ Security Operations & Monitoring
+**My Journey:**
+- 💻 **Software Development:** Focused on clean, maintainable code with .NET & Python.
+- 🔐 **Security:** Exploring Blue Team operations and automated incident response.
+- 🐳 **DevOps:** Learning to automate infrastructure and CI/CD pipelines.
+- 🤖 **AI Integration:** Applying AI models to solve real-world problems.
 
 </td>
 <td width="50%">
 
-**What I Build:**
-- ASP.NET Web & Desktop Applications
-- Java Android & Swing Apps
-- Python API Backends
-- Security Monitoring Systems
+**Academic Background:**
+- 🏆 **LeetCode:** 900+ Problems Solved
+- 📊 **GPA:** 3.44/4.0
+- 🏛️ Active member of **GDG HCMC**
+- ☁️ Learning and practicing on **AWS & GCP**
 
 </td>
 </tr>
@@ -48,127 +48,67 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Selected Projects
 
-<div align="center">
+### 🛡️ Multi-Cloud Serverless SOAR Platform
+**[Code](https://github.com/thtcsec/GCP-Serverless-SOAR) | Cloud Security & Automation**
+- An experimental multi-cloud (AWS & GCP) incident response pipeline using Serverless architecture.
+- Implemented basic automated resource isolation and threat intel enrichment.
+- **Stack:** Terraform, Python, AWS Step Functions, GCP Cloud Workflows, EventBridge.
 
-### 🎥 SmartCam — AI-Powered Camera Management System
+### 🎥 CTSmartCam — AI-Powered Security CMS
+**System Design | Computer Vision**
+- A surveillance management system integrating AI for real-time object detection.
+- Utilizes an event-driven architecture with SignalR for monitoring and Wazuh for basic HIDS.
+- **Stack:** ASP.NET Core 9, YOLOv11, SignalR, Redis, Docker, PostgreSQL.
 
-<img src="https://img.shields.io/badge/🔒_Private-Enterprise_System-FF6B35?style=for-the-badge&labelColor=0D1117" alt="Private"/>
-
-**Microservices-based CMS with AI for real-time surveillance & object detection**
-
-| Highlights | |
-|:---:|:---:|
-| 🎯 **AI Detection** (Person, Vehicle, LPR, Face) | 📡 **WebRTC** live streaming (H.265) |
-| 🔐 **Security Honeypot** & IDS integration | ⚡ **SignalR** real-time logs |
-| 🐳 **Docker Microservices** architecture | 🛡️ **Wazuh HIDS** + Suricata IDS |
-
-<img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
----
+### 🧪 Realistic Pentest Home Lab
+**[Code](https://github.com/thtcsec/PentestLab) | Cybersecurity Practice**
+- A containerized lab environment for practicing Web, AD, and Cloud security mindsets.
+- Focuses on understanding vulnerabilities from root cause to detection.
+- **Stack:** Docker, Linux, Python, Active Directory.
 
 ### 🎓 AI-Powered LMS — [toanvotruongtoan.com](https://toanvotruongtoan.com)
-
-<a href="https://toanvotruongtoan.com">
-  <img src="https://img.shields.io/badge/🔴_LIVE-Production-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Live"/>
-</a>
-
-**Production-ready Learning Management System serving hundreds of students**
-
-| Highlights | |
-|:---:|:---:|
-| ✨ **Gemini AI** for automated exam generation | ⚡ **<100ms** response times |
-| 🔒 **Supabase RLS** security | 🛡️ **SSL A+** rating |
-| 🚦 **Rate Limiting** (30 req/min) | ☁️ **Serverless** architecture |
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-
-</div>
+**Full-Stack Development**
+- A production-ready platform serving students with automated exam generation.
+- Implemented with a focus on security best practices like Supabase RLS and Rate Limiting.
+- **Stack:** React, TypeScript, Supabase, Vercel, Gemini AI.
 
 ---
 
-## 🌟 Community
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/Google_Developer_Group-HCMC-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" />
-
-Active member focusing on Google technologies,<br/>collaborative learning & developer practices
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/AWS_First_Cloud-AI_Journey-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
-
-Hands-on experience with AWS cloud services,<br/>AI/ML solutions & cloud architecture
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## ⚡ Tech Stack
+## ⚡ Technical Skills
 
 <div align="center">
 
 **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,ts,js,nodejs,django,fastapi&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,ts,react,html,css&theme=dark" />
+**Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,linux,kali,git,github,githubactions&theme=dark" />
 
-**Tools & Platforms**
+**Databases & Tools**
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,visualstudio,vscode,pycharm,idea&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,git,github,docker,linux,kali&theme=dark" />
-
-**Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,firebase,supabase,postgres,redis&theme=dark" />
-
-**Security Arsenal**
-
+**Security Tools (Learning & Using)**
+<img src="https://img.shields.io/badge/Wazuh-3C99DC?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh_HIDS-3C99DC?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 Achievements
+## 📊 Activity & Contributions
 
 <div align="center">
-
-<a href="https://leetcode.com/thtcsec/">
-  <img src="https://img.shields.io/badge/LeetCode-900+_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=thtcsec&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thtcsec&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35" width="95%" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=thtcsec&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thtcsec&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35" width="95%" />
 </div>
 
----
+<br/>
 
 ## 🐍 Contribution Graph
 
@@ -182,19 +122,12 @@ Hands-on experience with AWS cloud services,<br/>AI/ML solutions & cloud archite
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://fb.com/thtcsec)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/tht._csec)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117)](https://tiktok.com/@tuhocleetcode)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:tht.csec2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/thtcsec)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://fb.com/thtcsec)
 
-**Open for:** ASP.NET Projects • Security Tools • DevSecOps Collaboration
+<br/>
 
-</div>
-
----
-
-<div align="center">
-  
 *"Code with purpose, secure with passion"*
 
 <br/>
