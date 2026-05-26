@@ -38,8 +38,8 @@
 
 **Academic Background:**
 - 🏆 **LeetCode:** 900+ Problems Solved
-- 📊 **GPA:** 3.44/4.0
-- 🏛️ Active member of **GDG HCMC**
+- 📊 **GPA:** 3.50/4.0
+- 🏛️ Member of **GDG HCMC** and **AWS FCAJ**
 - ☁️ Learning and practicing on **AWS & GCP**
 
 </td>
@@ -48,25 +48,34 @@
 
 ---
 
+## 🏆 Awards & Honors
+
+- **Top 10 Finalist** - The Gridbreakers Datathon 2026 (VinUniversity & Vintelligence)
+- **Top 10 Finalist** - Tasco Foundry 2026 (GenAIFund x Tasco)
+- **2nd Runner Up** - GenAI Express Demo Day, Google Developer Group On Campus SGU 2026
+- **Winner** - Hoa Sen University Vibe Coding Talents 2025
+- **Outstanding Student of the Year 2023** - Bu Dang District, Binh Phuoc Province
+
+## 🤝 Leadership & Activities
+
+- **Agora Developer Ambassador**, 2026
+- **Google Student Ambassador**, 2026 - HUFLIT
+
+---
+
 ## 🚀 Selected Projects
 
 ### 🛡️ Multi-Cloud Serverless SOAR Platform
-**[Code](https://github.com/thtcsec/GCP-Serverless-SOAR) | Cloud Security & Automation**
+**[AWS Code](https://github.com/thtcsec/AWS-Serverless-SOAR) | [GCP Code](https://github.com/thtcsec/GCP-Serverless-SOAR) | Cloud Security & Automation**
 - An experimental multi-cloud (AWS & GCP) incident response pipeline using Serverless architecture.
 - Implemented basic automated resource isolation and threat intel enrichment.
 - **Stack:** Terraform, Python, AWS Step Functions, GCP Cloud Workflows, EventBridge.
 
-### 🎥 CTSmartCam — AI-Powered Security CMS
+### 🎥 CTSmartCam — AI-Powered Security Surveillance CMS
 **System Design | Computer Vision**
 - A surveillance management system integrating AI for real-time object detection.
 - Utilizes an event-driven architecture with SignalR for monitoring and Wazuh for basic HIDS.
 - **Stack:** ASP.NET Core 9, YOLOv11, SignalR, Redis, Docker, PostgreSQL.
-
-### 🧪 Realistic Pentest Home Lab
-**[Code](https://github.com/thtcsec/PentestLab) | Cybersecurity Practice**
-- A containerized lab environment for practicing Web, AD, and Cloud security mindsets.
-- Focuses on understanding vulnerabilities from root cause to detection.
-- **Stack:** Docker, Linux, Python, Active Directory.
 
 ### 🎓 AI-Powered LMS — [toanvotruongtoan.com](https://toanvotruongtoan.com)
 **Full-Stack Development**
