@@ -57,7 +57,7 @@
 - **Outstanding Student of the Year 2023** - Bu Dang District, Binh Phuoc Province
 
 ## 🤝 Leadership & Activities
-
+- **Cloudflare Technical Assistant, Campus Ambassador**, 2026
 - **Agora Developer Ambassador**, 2026
 - **Google Student Ambassador**, 2026 - HUFLIT
 
@@ -93,7 +93,7 @@
 <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,ts,js,nodejs,django,fastapi&theme=dark" />
 
 **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,linux,kali,git,github,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,terraform,linux,kali,git,github,githubactions&theme=dark" />
 
 **Databases & Tools**
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,visualstudio,vscode,pycharm,idea&theme=dark" />
