@@ -49,7 +49,7 @@
 ---
 
 ## 🏆 Awards & Honors
-
+- **Top 7 Finalist** - MUGVN x MongoDB Mini Hackathon 2026 (MongoDB)
 - **Top 10 Finalist** - The Gridbreakers Datathon 2026 (VinUniversity & Vintelligence)
 - **Top 10 Finalist** - Tasco Foundry 2026 (GenAIFund x Tasco)
 - **2nd Runner Up** - GenAI Express Demo Day, Google Developer Group On Campus SGU 2026
@@ -57,9 +57,9 @@
 - **Outstanding Student of the Year 2023** - Bu Dang District, Binh Phuoc Province
 
 ## 🤝 Leadership & Activities
-- **Cloudflare Technical Assistant, Campus Ambassador**, 2026
-- **Agora Developer Ambassador**, 2026
-- **Google Student Ambassador**, 2026 - HUFLIT
+- **Cloud Solutions Researcher Intern**, Jun 2026
+- **Agora Developer Ambassador**, Mar 2026
+- **Google Student Ambassador**, Feb 2026 - HUFLIT
 
 ---
 
