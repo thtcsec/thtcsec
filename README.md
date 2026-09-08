@@ -55,7 +55,6 @@
 - **[ICAI-FAI 2026]** *Decoupled AI-Native Security Architecture: Closed-Loop Threat Containment for Campus Networks* — `CMC · Tsinghua · Steinbeis` (Under Review)
 - **[VNICT 2026]** *Application of TCN and Transformer Networks for Log Anomaly Detection in Large-Scale Enterprise and Industrial Networks* — `National Proceedings · ISBN` (Accepted / Camera-Ready)
 - **[GIGS 2026]** *AI-Driven EdTech Risk & Cybersecurity Economics: Analyzing Student Data Governance and Financial Vulnerability in Emerging Markets* — `FTU · Curtin University` (Under Review)
-- **[SR-ICYREB 2026]** *Regression Analysis of AI-Native Security Adoption and Operational Feasibility in Vietnamese Higher Education Institutions* — `National Proceedings · UEH` (Under Review)
 
 ---
 
@@ -128,9 +127,9 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-hoangtu.dev-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://hoangtu.dev)
-[![Email](https://img.shields.io/badge/Email-tht.csec2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:tht.csec2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trịnh_Hoàng_Tú-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/thtcsec)
-[![Facebook](https://img.shields.io/badge/Facebook-Hoàng_Tú-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://fb.com/thtcsec)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:tht.csec2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/thtcsec)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://fb.com/thtcsec)
 
 <br/>
 
