@@ -25,11 +25,11 @@
 
 🎓 **Final-Year Cybersecurity Student** @ Ho Chi Minh City University of Foreign Language, Information Technology (HUFLIT)  
 📍 Ho Chi Minh City, Vietnam 🇻🇳  
-💼 **SWE** |**Backend** | **AI Engineer** | **DevOps** | **Cybersecurity**
+💼 **Software Engineer** |**Backend** | **AI Engineer** | **DevOps** | **Cybersecurity**
 
 **Current Roles:**
-- 🚘 **AI Engineer** @ VETC (Aug 2026 – Present, Remote) — ITS & Computer Vision traffic analytics.
-- 🟢 **Software Engineer (Backend) Intern** @ Grab (Aug 2026 – Present, On-site) — Scalable Java/ Go microservices.
+- 🚘 **AI Engineer** @ VETC (Aug 2026 – Sep 2026, Remote) — ITS & Computer Vision traffic analytics.
+- 🟢 **Software Engineer (Backend, in Training)** @ Grab (Aug 2026 – Present, On-site) — Scalable Java/ Go microservices.
 - ☁️ **AI Infra Engineer** @ Next Step Technology Solutions (Jun 2026 – Present) — Serverless pipelines & RAG systems.
 
 </td>
@@ -38,7 +38,7 @@
 **Academic & Program Highlights:**
 - 🏛️ **Tsinghua University:** Alumnus of AI & Innovation Digital Economy (supervised by Prof. Kris Singh).
 - 🏆 **VinUniversity AI Practical Talent:** Admitted Scholar.
-- 📊 **GPA:** 3.50 / 4.0
+- 📊 **GPA:** 3.52 / 4.0
 - 🏛️ Ex-**Google Student Ambassador** @ HUFLIT & **Agora Ambassador**.
 
 </td>
@@ -53,16 +53,15 @@
 - **[SOICT 2026]** *LLM-Augmented Log Anomaly Detection: Automated Root Cause Narration for AIOps using Lightweight Foundation Models on Real-World Campus Infrastructure* — `Springer CCIS · Scopus` (Under Review, HUST x HCMUS)
 - **[IEEE RIVF 2026]** *Federated Edge-Cloud Resilience Architecture for Distributed Campus Networks* — `IEEE Xplore · Scopus` (Under Review)
 - **[ICAI-FAI 2026]** *Decoupled AI-Native Security Architecture: Closed-Loop Threat Containment for Campus Networks* — `CMC · Tsinghua · Steinbeis` (Under Review)
-- **[VNICT 2026]** *Application of TCN and Transformer Networks for Log Anomaly Detection in Large-Scale Enterprise and Industrial Networks* — `National Proceedings · ISBN` (Accepted / Camera-Ready)
-- **[GIGS 2026]** *AI-Driven EdTech Risk & Cybersecurity Economics: Analyzing Student Data Governance and Financial Vulnerability in Emerging Markets* — `FTU · Curtin University` (Under Review)
+- **[VNICT 2026]** *Application of TCN and Transformer Networks for Log Anomaly Detection in Large-Scale Enterprise and Industrial Networks* — `National Proceedings · ISBN` (Accepted / Withdrawn)
 
 ---
 
 ## 🏆 Awards & Honors
-
-- 🥈 **Runner-Up (Rank 2)** - MongoDB & MUGVN Hackathon 2026 (Team Vector404)
-- 🏆 **Finalist** - Tsinghua University Global AI + Materials Competition 2026 (全球AI+材料创新应用大赛)
-- 🏆 **Finalist (Vòng Bảng / Chung kết)** - HSU AI-Driven Challenge 2026 (Team Firewall404)
+- 🏆 **Excellence Award** - Tsinghua University Global AI + Materials Competition 2026 (全球AI+材料创新应用大赛)
+- 🏆 **Semi-Finalist** - OIF x Business France - FrancoTech Innovation Competition 2026
+- 🥈 **Ranked 2nd out of 7** - MongoDB & MUGVN Hackathon 2026 (Team Vector404)
+- 🏆 **3rd Runner up** - HSU AI-Driven Challenge 2026 (Team Firewall404)
 - 🏆 **Finalist** - International Quantum Computing Hackathon QC4SG 2026 (Team QUASAR)
 - 🏆 **Ranked 10th** - VinUniversity Gridbreaker Datathon 2026 (Team GenCore in top 50 best teams)
 - 🏆 **Top 10 + 1 Finalist** - Tasco Foundry 2026 Venture Build (Team CARO)
