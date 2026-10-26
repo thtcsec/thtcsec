@@ -51,7 +51,7 @@
 
 - **[CSONET 2026]** *Network-Aware Event Sequence Modeling for User-Behavior and System Log Anomaly Detection* — `Springer LNCS · Scopus` (Accepted, Short Paper)
 - **[SOICT 2026]** *LLM-Augmented Log Anomaly Detection: Automated Root Cause Narration for AIOps using Lightweight Foundation Models on Real-World Campus Infrastructure* — `Springer CCIS · Scopus` (Accepted, HUST x HCMUS)
-- **[IEEE RIVF 2026]** *Federated Edge-Cloud Resilience Architecture for Distributed Campus Networks* — `IEEE Xplore · Scopus` (Under Review)
+- **[RIVF 2026]** *Two Distributions, Opposite Verdicts: Feature Provenance in Cross-Dataset Federated Intrusion Detection* — `IEEE Xplore · Scopus` (Accepted)
 - **[ICAI-FAI 2026]** *Decoupled AI-Native Security Architecture: Closed-Loop Threat Containment for Campus Networks* — `CMC · Tsinghua · Steinbeis` (Under Review)
 - **[VNICT 2026]** *Application of TCN and Transformer Networks for Log Anomaly Detection in Large-Scale Enterprise and Industrial Networks* — `National Proceedings · ISBN` (Accepted / Withdrawn)
 
