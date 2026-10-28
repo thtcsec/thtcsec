@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Tr%E1%BB%8Bnh+Ho%C3%A0ng+T%C3%BA;Software+Engineer+%7C+AI+Engineer;DevOps+%7C+Cybersecurity" alt="Typing SVG" />
   
-  <p><em>Software Engineer & AI Researcher specializing in Computer Vision, Intelligent Transportation Systems (ITS), Cloud Infrastructure, DevOps, and Cybersecurity.</em></p>
+  <p><em>Software Engineer, AI Engineer & Researcher specializing in Computer Vision, Intelligent Transportation Systems (ITS), Cloud Infrastructure, DevOps, and Cybersecurity.</em></p>
   
   <a href="mailto:tht.csec2005@gmail.com">
     <img src="https://img.shields.io/badge/Open_to_Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Open to Opportunities"/>
@@ -36,10 +36,10 @@
 <td width="50%">
 
 **Academic & Program Highlights:**
-- 🏛️ **Tsinghua University:** Alumnus of AI & Innovation Digital Economy (supervised by Prof. Kris Singh).
+- 🏛️ **Tsinghua University:** Alumnus of Non-degree Program: AI & Innovation Digital Economy (supervised by Prof. Kris Singh).
 - 🏆 **VinUniversity AI Practical Talent:** Admitted Scholar.
 - 📊 **GPA:** 3.52 / 4.0
-- 🏛️ Ex-**Google Student Ambassador** @ HUFLIT & **Agora Ambassador**.
+- 🏛️ Ex-**Google Student Ambassador** & Ex-**Agora Ambassador**.
 
 </td>
 </tr>
@@ -49,10 +49,10 @@
 
 ## 📚 Scientific Publications
 
-- **[CSONET 2026]** *Network-Aware Event Sequence Modeling for User-Behavior and System Log Anomaly Detection* — `Springer LNCS · Scopus` (Accepted, Short Paper)
+- **[CSONET 2026]** *Network-Aware Event Sequence Modeling for User-Behavior and System Log Anomaly Detection* — `Springer LNCS · Scopus` (Accepted, Short Paper, HCMUT)
 - **[SOICT 2026]** *LLM-Augmented Log Anomaly Detection: Automated Root Cause Narration for AIOps using Lightweight Foundation Models on Real-World Campus Infrastructure* — `Springer CCIS · Scopus` (Accepted, HUST x HCMUS)
-- **[RIVF 2026]** *Same Flows, Opposite Verdicts: Feature Reconstruction in Cross-Dataset Intrusion Detection* — `IEEE Xplore · Scopus` (Accepted)
-- **[ICAI-FAI 2026]** *Decoupled AI-Native Security Architecture: Closed-Loop Threat Containment for Campus Networks* — `CMC · Tsinghua · Steinbeis` (Under Review)
+- **[RIVF 2026]** *Same Flows, Opposite Verdicts: Feature Reconstruction in Cross-Dataset Intrusion Detection* — `IEEE Xplore · Scopus` (Accepted, VinUniversity)
+- **[ICAI 2026]** *Evaluating an Event-Driven Edge–Cloud Intrusion Detection Prototype: Host-Day Grouping and Threshold Transfer on InSDN* — `CMC · Tsinghua · Steinbeis` (Under Review)
 - **[VNICT 2026]** *Application of TCN and Transformer Networks for Log Anomaly Detection in Large-Scale Enterprise and Industrial Networks* — `National Proceedings · ISBN` (Accepted / Withdrawn)
 
 ---
@@ -132,7 +132,7 @@
 
 <br/>
 
-*"Code with purpose, secure with passion"*
+*"Nice"*
 
 <br/>
 
